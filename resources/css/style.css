@@ -29,3 +29,11 @@ footer {
     text-align: right;
     color: gray;
 }
+video {
+    display: block;
+    margin: 20px auto;
+}
+img {
+    display: block;
+    margin: 30px auto;
+}
